@@ -6,6 +6,8 @@
 //"spider": "https://gitea.com/mai007/mtv/raw/commit/a6fb2f711efd9015ba97015804f41ccd0aca11f5/w30.jar",
 "spider":"https://gitea.com/mai007/One/raw/branch/master/587006149_0608.jar",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/%E6%9C%80%E6%96%B0529.jar",
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
+
 "sites":[
 // spider --> custom_spider_1651202998.bmp
 

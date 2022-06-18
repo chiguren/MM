@@ -33,7 +33,8 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/YuanHsing/OneClickRun/raw/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hub.fastgit.xyz/YuanHsing/OneClickRun/raw/master/MeowXP/kuqimv.json"},
 
-
+{"key":"斗鱼","name":"斗鱼(php)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"开麦K歌搜歌","name":"开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple+Kuaikan规则
 ## --> spider 改 "spider":"https://hub.fastgit.xyz/YuanHsing/OneClickRun/raw/master/MeowXB/XBiubiuLA3.jar",
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.fastgit.xyz/YuanHsing/OneClickRun/raw/master/MeowXB/厂长资源-蓝光.json"},

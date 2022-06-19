@@ -22,7 +22,7 @@
 {"key":"斗鱼","name":"斗鱼(php)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜歌","name":"开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_Blixs","name":"相声小品","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":0,"filterable":1,}
+
 {"key":"csp_DiDuan","name":"🐼低端(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🐼厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},

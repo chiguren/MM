@@ -168,7 +168,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7d4149b09b9144249497f06bd9827324"},
     {
       "key": "csp_biubiu_douyu",
       "name": "斗鱼直播1（Biu)）",

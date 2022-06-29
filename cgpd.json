@@ -171,7 +171,7 @@
     },
     {
       "key": "csp_biubiu_douyu",
-      "name": "斗鱼直播1（Biu)）",
+      "name": "斗鱼直播（Biu)）",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -179,15 +179,7 @@
       "filterable": 0,
       "ext": "https://chiguren.github.io/MeowXB/douyu.json"
     },
-    {
-      "key": "斗鱼2",
-      "name": "斗鱼(php)",
-      "type": 1,
-      "api": "http://jb001.eu5.org/tmp/t/u/douyu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
       "key": "开麦K歌搜歌",
       "name": "开麦K歌搜歌",
@@ -197,16 +189,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "csp_Blixs",
-      "name": "相声小品",
-      "type": 3,
-      "api": "csp_Blixs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
+   {"key":"csp_大米星球","name":"大米（B)）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chiguren.github.io/MeowXB/dmxq.js"},
+{
       "key": "csp_biubiu_厂长资源-蓝光",
       "name": "🥒厂长资源-蓝光(XB)",
       "type": 3,

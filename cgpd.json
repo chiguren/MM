@@ -22,6 +22,8 @@
 {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"mjxq_spider","name":"美剧星球🐞","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+    {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_LiteApple",
       "name": "🍎小苹果(SP)",
@@ -5016,5 +5018,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://chiguren.github.io/jxaf/meisan0627_fix gitcafe.jar"
+  "spider": "https://chiguren.github.io/jxaf/meisan0630.jar"
 }

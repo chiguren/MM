@@ -4044,10 +4044,10 @@
       "type": 1,
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
-    {
-      "name": "293",
+   {
+      "name": "龙虾",
       "type": 1,
-      "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+      "url": "http://106.55.234.91:4433/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -4060,7 +4060,7 @@
           "1905"
         ],
         "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
+          "User-Agent": "Dalvik/2.1.0"
         }
       }
     },

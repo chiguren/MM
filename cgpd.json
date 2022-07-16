@@ -9,7 +9,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {"key":"酷猫","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"酷猫","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 
     {
       "key": "csp_Kuaikan",
@@ -26,6 +26,7 @@
     {"key":"mjxq_spider","name":"美剧星球🐞","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
     {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {
       "key": "csp_LiteApple",
       "name": "🍎小苹果(SP)",
@@ -4173,5 +4174,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://pan.bilnn.com/api/v3/file/sourcejump/gEexgmso/OqJv0bAyLxP40m9OJuS6-A6GXMgg5dY-otOqlTkhmPs*"
+  "spider": "https://wp.wangshi520.com/down.php/27c2aa1f6c0fa74f7d93dfbd6eda8621.jar"
 }

@@ -26,8 +26,7 @@
     {"key":"mjxq_spider","name":"美剧星球🐞","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
     {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {
+  {
       "key": "csp_LiteApple",
       "name": "🍎小苹果(SP)",
       "type": 3,
@@ -168,16 +167,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://chiguren.github.io/MeowXB/douyu.json"
-    },
-   
-    {
-      "key": "开麦K歌搜歌",
-      "name": "开麦K歌搜歌",
-      "type": 1,
-      "api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
    {"key":"csp_大米星球","name":"大米（B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chiguren.github.io/MeowXB/dmxq.js"},
 {

@@ -10,8 +10,7 @@
       "filterable": 1
     },
       {"key":"酷猫","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {
+{
       "key": "csp_Kuaikan",
       "name": "🎈快看(SP)",
       "type": 3,
@@ -4163,5 +4162,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://wp.wangshi520.com/down.php/939bfdcd493ceca805cd47095990ea1f.jar&CNM0803"
+  "spider": "https://pan.bilnn.com/api/v3/file/sourcejump/gEexgmso/OqJv0bAyLxP40m9OJuS6-A6GXMgg5dY-otOqlTkhmPs*"
 }

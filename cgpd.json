@@ -5,6 +5,15 @@
 {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Ekan_spider"        ,"name":"🐞Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+   {
+		"key": "酷猫",
+		"name": "🐞酷猫",
+		"type": 3,
+		"api": "csp_Kmys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
     {
       "key": "csp_hbys",
       "name": "🐞简影",
@@ -7594,5 +7603,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;7eacb357cf27abce92ed497367221e5a"
+  "spider": "https://shuyuan.miaogongzi.net/shuyuan/1659713026.txt;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
 }

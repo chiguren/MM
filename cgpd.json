@@ -1,6 +1,5 @@
 {
   "sites": [
-    {"key": "kkys","name": "看123","type": 4,"api": "http://z.kooo.eu.org/api/t4/kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "KanSJ_spider",
       "name": "🐞看视界",

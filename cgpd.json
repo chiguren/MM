@@ -10,15 +10,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "293视频",
-      "name": "🐞293视频",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "Smdyy_spider",
       "name": "🐞神马影视",
@@ -46,15 +38,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "酷猫",
-      "name": "🐞酷猫",
-      "type": 3,
-      "api": "csp_Kmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "csp_hbys",
       "name": "🐞简影",
@@ -83,15 +67,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_BBB",
-      "name": "哔哩套餐",
-      "type": 3,
-      "api": "csp_BBB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_n0ys",
       "name": "💥1090影视(SP)",

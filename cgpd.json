@@ -1,6 +1,6 @@
 {
   "sites": [
-{ "key":"t4test", "name":"T4测试", "type":4, "api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=27b06d5221a24199b15f2e573d847430&timeout=5", "searchable":1, "quickSearch":1, "filterable":0},
+
     {
       "key": "KanSJ_spider",
       "name": "🐞看视界",
@@ -10,7 +10,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{ "key":"t4test", "name":"T4测试", "type":4, "api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=27b06d5221a24199b15f2e573d847430&timeout=5", "searchable":1, "quickSearch":1, "filterable":0},
     {
       "key": "Smdyy_spider",
       "name": "🐞神马影视",
@@ -234,32 +234,46 @@
       "filterable": 0,
       "ext": "https://chiguren.github.io/MeowXP/kuqimv.json"
     },
-    {
-      "key": "Gitcafe",
-      "name": "🎲小纸条",
+{
+
+      "key": "csp_Gitcafe",
+      "name": "纸条",
       "type": 3,
-      "api": "csp_GitCafe",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "FindZY",
-      "name": "🎲找资源",
-      "type": 3,
-      "api": "csp_FindZY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "aa7971cb43c6408584f178b4089e9873"
     },
     {
       "key": "AliPS",
-      "name": "🎲 盘  搜",
+      "name": "资源",
       "type": 3,
-      "api": "csp_AliPanSou",
+      "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "aa7971cb43c6408584f178b4089e9873"
+    },
+  {
+      "key": "csp_Yiso",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_Yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "aa7971cb43c6408584f178b4089e9873"
+    },
+      {
+      "key": "csp_AliPS",
+      "name": "阿里",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "aa7971cb43c6408584f178b4089e9873"
     },
     {
       "key": "push_agent",

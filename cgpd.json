@@ -231,7 +231,7 @@
       "filterable": 1,
       "ext": "https://chiguren.github.io/MeowXP/huya2.json"
     },
-    {"key":"csp_Alist2","name":"🐞Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://chiguren.github.io/MM/alist.jar","ext":"https://drive.9t.ee"},
+
     {
       "key": "csp_xpath_kuqimv",
       "name": "🎤酷奇MV(XP)",

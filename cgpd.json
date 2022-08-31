@@ -1,15 +1,12 @@
 {
   "sites": [
 
-    {
-      "key": "KanSJ_spider",
-      "name": "🐞看视界",
-      "type": 3,
-      "api": "csp_KanSJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  {"key": "csp_XYQBiu_E99","name": "E99(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/99e.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
+		{"key":"csp_Alist2","name":"️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
+		{"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/lyys(xyq).json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
+		{"key": "csp_XYQBiu_虎牙","name": "虎牙","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/虎牙.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
+		{"key": "csp_XYQBiu_凌云视频韩国","name": "凌云视频韩国","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/凌云视频韩国.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
+		{"key":"短视频聚合","name":"短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/XYQBiu.jar"},
 { "key":"t4test", "name":"T4测试", "type":4, "api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=27b06d5221a24199b15f2e573d847430&timeout=15", "searchable":1, "quickSearch":1, "filterable":0},
     {"key":"t4public",
             "name":"T4公共",
@@ -4898,5 +4895,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://pglblb.test.upcdn.net/pglblb.txt"
+  "spider": "https://gitea.com/chiguren/jar/raw/branch/main/custom_spider.jar"
 }

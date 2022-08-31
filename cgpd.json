@@ -111,15 +111,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_appys_美剧虫",
-      "name": "美剧虫(V1)",
+      "key": "csp_xpath_MEIJU",
+      "name": "美剧虫",
       "type": 3,
-      "api": "csp_AppYs",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
+      "ext": "https://gitea.com/chiguren/jar/raw/branch/main/美剧虫(XPF).json"},
     {
       "key": "spider_Bttoo",
       "name": "📚2BT(SP)",

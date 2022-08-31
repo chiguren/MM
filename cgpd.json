@@ -1,6 +1,15 @@
 {
   "sites": [
-
+ {
+      "key": "csp_xpath_libv",
+      "name": "LIBVIO",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://pglblb.test.upcdn.net/xp/libvio.json"
+    },
   {"key": "csp_XYQBiu_E99","name": "E99(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/99e.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
 		{"key":"csp_Alist2","name":"️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
 		{"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/lyys(xyq).json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},
@@ -192,15 +201,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Nbys",
-      "name": "🐼泥巴(SP需翻墙)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "csp_DY1990",
       "name": "🐼1990电影(SP)",
@@ -220,16 +221,7 @@
       "filterable": 1,
       "ext": "https://chiguren.github.io/MeowXP/88kanqiu.json"
     },
-    {
-      "key": "csp_xpath_huya",
-      "name": "🐯虎牙(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://chiguren.github.io/MeowXP/huya2.json"
-    },
+
 
     {
       "key": "csp_xpath_kuqimv",

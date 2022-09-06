@@ -12,6 +12,12 @@
       "filterable": 1,
       "ext": "http://pglblb.test.upcdn.net/xp/libvio.json"
     },
+	  {"key": "csp_XYQBiu_555影视","name": "555影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/555影视.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_橘猫资源","name": "橘猫资源(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/橘猫资源.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_剧荒","name": "剧荒(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/剧荒.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_酷奇MV","name": "酷奇MV(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/酷奇MV.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_萌番组","name": "萌番组(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/萌番组.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_影视工厂","name": "影视工厂(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/影视工厂.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
 	  {"key":"csp_Bili合集","name":" 哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/B站.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
 		{"key":"csp_Bili读书","name":" 哔哩读书","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/bilitvbox.json","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
   {"key": "csp_XYQBiu_E99","name": "E99(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/99e.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0828.jar"},

@@ -1,5 +1,31 @@
 {
   "sites": [
+	  {
+      "key": "多多1",
+      "name": "多多",
+      "type": 1,
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },	
+	{"key": "csp_XYQBiu_万能影院","name": "万能影院(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/万能影院.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0907.jar"},
 	  {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/UM.json"},
 
 	  {

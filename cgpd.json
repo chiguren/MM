@@ -1,61 +1,7 @@
 {
   "sites": [
 	  {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/UM.json"},
-{ "key":"VIP1", "name": "Vip(T4)", "type":4, "api":"http://vod.kooo.eu.org/t4/vip110002", "searchable":1, "quickSearch":1, "filterable":1 }, { "key":"VIP3", "name": "神马(T4)", "type":4, "api":"https://vod.kooo.eu.org/t4/vip11cx08", "searchable":1, "quickSearch":1, "filterable":1 }, { "key":"VIP4", "name": "看视界(T4)", "type":4, "api":"https://vod.kooo.eu.org/t4/vip11b016", "searchable":1, "quickSearch":1, "filterable":1 }, { "key":"VIP6", "name": "多多资源(T4)", "type":4, "api":"https://vod.kooo.eu.org/t4/vip11fx64", "searchable":1, "quickSearch":1, "filterable":1 },
- {
-      "key": "低端",
-      "name": "低端(T4)",
-      "type": 4,
-      "api": "http://vod.kooo.eu.org/t4/vip110002",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "libvo",
-      "name": "libvo(T4)",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11a032",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "农民",
-      "name": "农民(T4)",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11fx64",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "注视",
-      "name": "注视(T4)",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11p256",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴(T4)",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11o128",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "80S",
-      "name": "80S(T4)",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11cx08",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 	  {
       "key": "csp_xpath_libv",
       "name": "LIBVIO",
@@ -66,9 +12,19 @@
       "filterable": 1,
       "ext": "http://pglblb.test.upcdn.net/xp/libvio.json"
     },
-	  {"key": "csp_XYQBiu_无插件直播","name": "无插件直播(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/无插件直播.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
+{"key": "csp_XYQBiu_vofix","name":"vofix(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/vofix.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQPlugin_0915.jar"},
+
+
+
+{"key": "csp_XYQHiker_无插件直播","name":"无插件直播(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/无插件直播.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQPlugin_0915.jar"},
+
+{"key": "csp_XYQBiu_酷狗MV","name":"酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/酷狗MV.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQPlugin_0915.jar"},
+
+
+{"key": "csp_XYQHiker_特狗影视","name":"特狗影视(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/特狗影视.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQPlugin_0915.jar"},
+	 
 {"key": "csp_XYQBiu_310直播","name": "310直播(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/310直播 .json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
-{"key": "csp_XYQBiu_小猫咪","name": "小猫咪(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/小猫咪.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0907.jar"},
+{"key": "csp_XYQBiu_小猫咪","name": "小猫咪(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/小猫咪.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQPlugin_0915.jar"},
 	  {"key": "csp_XYQBiu_555影视","name": "555影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/555影视.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
 {"key": "csp_XYQBiu_橘猫资源","name": "橘猫资源(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/橘猫资源.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
 {"key": "csp_XYQBiu_剧荒","name": "剧荒(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/chiguren/jar/raw/branch/main/剧荒.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},

@@ -27,7 +27,7 @@
     },	
 	{"key": "csp_XYQBiu_万能影院","name": "万能影院(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MeowXB/万能影院.json","jar":"https://chiguren.github.io/jxaf/XYQPlugin_0915.jar"},
 	  {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/UM.json"},
-
+{"key": "csp_XYQBiu_聚合影视","name": "聚合影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/fv(xyq).json","jar":"https://chiguren.github.io/jxaf/XYQPlugin_0915.jar"},
 	  {
       "key": "csp_xpath_libv",
       "name": "LIBVIO",

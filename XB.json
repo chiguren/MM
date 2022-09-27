@@ -23,14 +23,14 @@
   "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
  },
 {
-  "key": "csp_xb_xmm",
-  "name": "小猫咪(R)",
+  "key": "csp_xb_WNYY",
+  "name": "万能影院(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://xmaomi.net/vod_____show/{cateId}--------{catePg}---.html"
+  "ext": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
  }
 ],
 

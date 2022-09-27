@@ -52,6 +52,16 @@
  "filterable": 0,
  "ext": "https://www.ftcgj.com/{cateId}.html"
 },
+  {
+ "key": "csp_xb_耐看",
+ "name": "耐看点播(R)",
+ "type": 3,
+ "api": "csp_XBiu",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 0,
+ "ext": "https://www.nkdyw.com/show/{cateId}--------{catePg}---.htm"
+},
 {
   "key": "csp_xb_vofix",
   "name": "vofix(R)",

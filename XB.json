@@ -30,7 +30,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://juhuang.tv/type/{cateId}_type_fypage.html[firstPage=https://juhuang.tv/type/{cateId}_type.html"
+  "ext": "https://juhuang.tv/type/{cateId}_type_fypage.html[firstPage=https://juhuang.tv/type/{cateId}_type.html]"
  }
 ],
 

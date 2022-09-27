@@ -60,7 +60,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 0,
- "ext": "https://www.nkdyw.com/show/{cateId}--------{catePg}---.html"
+ "ext": "https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"
 },
     {
  "key": "csp_xb_鸭奈飞",
@@ -70,7 +70,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 0,
- "ext": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+ "ext": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"
 },
 {
   "key": "csp_xb_vofix",

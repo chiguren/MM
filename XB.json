@@ -23,14 +23,14 @@
   "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
  },
 {
-  "key": "csp_xb_WNYY",
-  "name": "万能影院(R)",
+  "key": "csp_xb_JH",
+  "name": "剧荒(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+  "ext": "https://juhuang.tv/type/{cateId}_type_fypage.html[firstPage=https://juhuang.tv/type/{cateId}_type.html]"
  }
 ],
 

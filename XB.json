@@ -12,16 +12,9 @@
 
 
 "sites":[
-  {"key": "csp_XYQBiu_l0l影院","name": "l0l影院(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/l0l影院.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_l0l直播","name": "l0l直播(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/l0l直播.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_MayiTube","name": "MayiTube(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/MayiTube.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_Vidhub视频库","name": "Vidhub视频库(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/Vidhub视频库.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_宝仙HD","name": "宝仙HD(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/宝仙HD.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_巨人影院","name": "巨人影院(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/巨人影院.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_星空影院","name": "星空影院(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/星空影院.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_鸭奈飞影视","name": "鸭奈飞影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/鸭奈飞影视.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
+  
 {"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/lyys(xyq).json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
-{"key": "csp_XYQBiu_在线之家","name": "在线之家(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/在线之家.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
+
 {
   "key": "csp_xb_lgyy",
   "name": "蓝光影院(R)",

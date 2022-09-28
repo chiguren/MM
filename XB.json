@@ -14,7 +14,24 @@
 "sites":[
   
 {"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://chiguren.github.io/MM/lyys(xyq).json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
+{"key":"csp_XBPQfreeok","name":"freeok〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/freeok.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
+{"key":"csp_XBPQ爱酷","name":"爱酷〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/爱酷.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+{"key":"csp_XBPQ番茄","name":"番茄〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/番茄.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
+{"key":"csp_XBPQ干饭","name":"干饭〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/干饭.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+{"key":"csp_XBPQ瓜皮","name":"瓜皮〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/瓜皮.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
+{"key":"csp_XBPQ黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/黑洞影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+{"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/极品影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
+{"key":"csp_XBPQ荐片","name":"荐片〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/荐片.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+{"key":"csp_XBPQ巨人","name":"巨人〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/巨人.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
+{"key":"csp_XBPQ酷客","name":"酷客〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/酷客.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+{"key":"csp_XBPQ胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/胖虎影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
+{"key":"csp_XBPQ皮皮泡","name":"皮皮泡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/皮皮泡.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 {
   "key": "csp_xb_lgyy",
   "name": "蓝光影院(R)",

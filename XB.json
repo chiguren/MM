@@ -101,15 +101,7 @@
   "filterable": 0,
   "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html"},
    {
- "key": "csp_xb_35ju",
- "name": "星空影院(R)",
- "type": 3,
- "api": "csp_XBiu",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 0,
- "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"
-},
+
 {
  "key": "csp_xb_ftcgj",
  "name": "枫糖影院(R)",

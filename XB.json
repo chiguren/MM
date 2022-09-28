@@ -33,6 +33,74 @@
   "ext": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"
  },
   {
+  "key": "csp_xb_ummys",
+  "name": "UM影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+
+{
+  "key": "csp_xb_jpys",
+  "name": "极品影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
+{
+  "key": "csp_xb_玄天",
+  "name": "玄天影院(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
+  
+
+  {
+  "key": "csp_xb_pbys",
+  "name": "片吧影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html"},
+      
+{
+  "key": "csp_xb_ddgys",
+  "name": "达达龟影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+        
+{
+  "key": "csp_xb_mztys",
+  "name": "莫扎兔影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+     {
+  "key": "csp_xb_nikeys",
+  "name": "Nike影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html"},
+   {
  "key": "csp_xb_35ju",
  "name": "星空影院(R)",
  "type": 3,

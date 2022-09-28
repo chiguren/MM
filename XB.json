@@ -112,7 +112,8 @@
  "filterable": 0,
  "ext": "https://www.ftcgj.com/{cateId}.html"
 },
-"key": "csp_xb_l0l影院",
+{
+ "key": "csp_xb_l0l影院",
   "name": "l0l影院(R)",
   "type": 3,
   "api": "csp_XBiu",
@@ -121,6 +122,7 @@
   "filterable": 0,
   "ext": "https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"
  },
+ {
  "key": "csp_xb_l0l直播",
   "name": "l0l直播(R)",
   "type": 3,
@@ -130,6 +132,7 @@
   "filterable": 0,
   "ext": "https://www.l0l.tv/ds.php/live?type={cateId}&Page={catePg}"
  },
+ {
  "key": "csp_xb_MayiTube",
   "name": "MayiTube(R)",
   "type": 3,
@@ -139,6 +142,7 @@
   "filterable": 0,
   "ext": "https://mayitube.com/c/{cateId}?page={catePg}"
  },
+ {
  "key": "csp_xb_Vidhub",
   "name": "Vidhub视频库(R)",
   "type": 3,
@@ -148,6 +152,7 @@
   "filterable": 0,
   "ext": "https://vidhub.top/vodshow/{cateId}--------{catePg}---.html"
  },
+ {
  "key": "csp_xb_宝仙HD",
   "name": "宝仙HD(R)",
   "type": 3,
@@ -157,7 +162,8 @@
   "filterable": 0,
   "ext": "https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
  },
- "key": "csp_xb_巨人影院",
+{
+  "key": "csp_xb_巨人影院",
   "name": "巨人影院(R)",
   "type": 3,
   "api": "csp_XBiu",
@@ -166,6 +172,7 @@
   "filterable": 0,
   "ext": "https://www.jurenm.com/show/{cateId}/page/{catePg}.html"
  },
+ {
  "key": "csp_xb_星空影院",
   "name": "星空影院(R)",
   "type": 3,
@@ -175,7 +182,8 @@
   "filterable": 0,
   "ext": "http://www.35ju.com/HAO/{cateId}-{catePg}.html"
  },
- "key": "csp_xb_耐看点播",
+{
+  "key": "csp_xb_耐看点播",
   "name": "耐看点播(R)",
   "type": 3,
   "api": "csp_XBiu",
@@ -184,6 +192,7 @@
   "filterable": 0,
   "ext": "https://yanetflix.com/vodshow/{cateId}--------{catePg}---.html"
  },
+ {
  "key": "csp_xb_在线之家",
   "name": "在线之家(R)",
   "type": 3,

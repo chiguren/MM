@@ -159,7 +159,83 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://www.voflix.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"
- }
+ },
+  {
+  "key": "csp_xb_135kanys",
+  "name": "135kan影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://www.135kan.com/type/{cateId}-{catePg}/"},
+
+{
+  "key": "csp_xb_4kanys",
+  "name": "4kan影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---/"
+},
+
+{"key": "csp_xf_naikan","name": "️耐看","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/XYQ/%E8%80%90%E7%9C%8B.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
+{
+  "key": "csp_xb_dyys",
+  "name": "段友影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{
+  "key": "csp_xb_lxys",
+  "name": "冷曦影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"},
+{
+  "key": "csp_xb_543ys",
+  "name": "543影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/"},
+{"key": "csp_xb_yhmjt",
+ "name": "牛牛影院(R)",
+ "type": 3,
+ "api": "csp_XBiu",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 0,
+ "ext": "https://www.yhmjt.com/vodshow/vodtype/{cateId}-------{catePg}---.html"
+},
+{
+  "key": "csp_xb_kpkrys",
+  "name": "看片狂人影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.kpkuang.de/vodshow/{cateId}--------{catePg}-----.html"},
+          {
+  "key": "csp_xb_fqys",
+  "name": "番茄影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://tjomet.com/vodshow/{cateId}--------{catePg}---.html"}
 ],
 
 "parses":[

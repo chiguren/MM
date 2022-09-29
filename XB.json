@@ -36,7 +36,7 @@
 {"key":"csp_XBPQ干饭","name":"干饭〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/干饭.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 {"key":"csp_XBPQ瓜皮","name":"瓜皮〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/瓜皮.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
-{"key":"csp_XBPQ黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/黑洞影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
 {"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/极品影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
 
@@ -56,6 +56,15 @@
   "filterable": 0,
   "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
  },
+  {
+  "key": "csp_xb_nullys",
+  "name": "黑洞影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html"},
   {
   "key": "csp_xb_555",
   "name": "555影院(R)",

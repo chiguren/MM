@@ -8,7 +8,7 @@
 "播放数组":"hl-list-wrap&&</ul>",
 "线路数组": "class=\"hl-plays-wrap&&</div>",
 "分类":"电视剧$2#动漫$4#电影$1#综艺$3",
-"分类url":"https://www.nulltm.com/voddetail/{cateId}.html",
+"分类url":"https://www.nulltm.com/vodtype/{cateId}.html",
 "年份":"2000-2022",
 "筛选":"0"
 }

@@ -44,7 +44,7 @@
 
 {"key":"csp_XBPQ干饭","name":"干饭〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/干饭.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 {"key":"csp_XBPQ瓜皮","name":"瓜皮〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/瓜皮.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
-
+{"key": "csp_xf_naikan","name": "️耐看〔XYQ〕","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/XYQ/%E8%80%90%E7%9C%8B.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
 
 {"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/极品影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
@@ -233,7 +233,7 @@
   "ext": "https://www.4kan.cc/vodshow/{cateId}--------{catePg}---/"
 },
 
-{"key": "csp_xf_naikan","name": "️耐看","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/XYQ/%E8%80%90%E7%9C%8B.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
+
 {
   "key": "csp_xb_dyys",
   "name": "段友影视(R)",

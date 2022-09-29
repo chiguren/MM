@@ -25,7 +25,7 @@
 {"key":"csp_XBPQ黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/黑洞影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 {"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/极品影视.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
-{"key":"csp_XBPQ荐片","name":"荐片〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/荐片.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
+
 {"key":"csp_XBPQ巨人","name":"巨人〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/巨人.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},
 
 {"key":"csp_XBPQ酷客","name":"酷客〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/MM/酷客.json","jar":"https://chiguren.github.io/jxaf/xBPQ.jar"},

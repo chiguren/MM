@@ -4210,6 +4210,11 @@
             "type": 2,
             "url": "Sequence"
         },
+	   {
+      "name": "10%",
+      "type": 1,
+      "url": "http://43.139.102.88:88/parse/de.php?url="
+    },
         {
       "name": "手动解析 1",
       "type": 0,
